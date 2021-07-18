@@ -1,0 +1,4 @@
+django==3.0.2
+django-storages
+whitenoise
+gunicorn
